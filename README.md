@@ -12,7 +12,7 @@ Online judge system - https://judge.softuni.org/
 
 - Introduction to HTML
 - Introduction to CSS
-- Workshop - Landing Page
+- Workshop - Landing Page1
 
 
 # Additional resources:
